@@ -1,0 +1,27 @@
+{
+  "name": "stater",
+  "version": "0.2.21",
+  "private": true,
+  "packageManager": "pnpm@7.2.1",
+  "description": "Starter templates",
+  "author": "Neil Lee <zguolee@foxmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/zguolee/starter#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zguolee/starter.git"
+  },
+  "bugs": "https://github.com/zguolee/starter/issues",
+  "scripts": {
+    "dev:ts": "pnpm -C ts dev",
+    "build:ts": "pnpm -C ts build",
+    "play:uni:mp-weixin": "pnpm -C uni-app run dev:mp-weixin",
+    "build:uni:mp-weixin": "pnpm -C uni-app run build:mp-weixin",
+    "play:uni:h5": "pnpm -C uni-app run dev:h5",
+    "build:uni:h5": "pnpm -C uni-app run build:h5",
+    "dev:vue": "pnpm -C vue dev",
+    "build:vue": "pnpm -C vue build",
+    "dev:vue-lite": "pnpm -C vue-lite dev",
+    "build:vue-lite": "pnpm -C vue-lite build"
+  }
+}

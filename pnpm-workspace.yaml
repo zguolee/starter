@@ -1,0 +1,5 @@
+packages:
+  - 'ts'
+  - 'uni'
+  - 'vue'
+  - 'vue-lite'
