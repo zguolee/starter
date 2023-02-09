@@ -17,14 +17,12 @@
     "@vueuse/head": "^1.0.24",
     "nprogress": "^0.2.0",
     "pinia": "^2.0.30",
-    "prism-theme-vars": "^0.2.4",
     "vue": "^3.2.47",
     "vue-router": "^4.1.6"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.35.1",
     "@iconify-json/carbon": "^1.1.14",
-    "@types/markdown-it-link-attributes": "^3.0.1",
     "@types/node": "^18.11.19",
     "@types/nprogress": "^0.2.0",
     "@unocss/eslint-config": "^0.49.4",
